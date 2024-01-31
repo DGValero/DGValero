@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis!
 - 📜 Python, DAX, VBA, SQL, AWS, Azure, Bash
 
-- 📫 Reach me on: www.linkedin.com/in/daniel--valero/
+- 📫 Reach me on: www.linkedin.com/in/daniel-valero/
 
 <!---
 DGValero/DGValero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
